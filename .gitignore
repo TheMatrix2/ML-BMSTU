@@ -1,2 +1,4 @@
 */__pycache__/
 lab4_classification/dataset
+lab4_classification/shoe_classifier_model.h5
+*/.DS_Store
